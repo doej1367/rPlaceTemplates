@@ -1,5 +1,5 @@
 # rPlaceTemplates
-A tamplate for the 2022 r/place containing the Canadian flag and the Hytale logo
+A template for the 2022 r/place containing the Canadian flag and the Hytale logo
 
 ## Step-by-step guide
 1. Download the Violentmonkey browser extension [ [Firefox Extension](https://addons.mozilla.org/de/firefox/addon/violentmonkey/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) ]
